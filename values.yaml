@@ -4,8 +4,8 @@ appPort: 8080
 
 resources: 
   limits:
-    cpu: 500m
-    memory: 712Mi
+    cpu: 1500m
+    memory: 1712Mi
   requests:
-    cpu: 300m
-    memory: 512Mi
+    cpu: 1000m
+    memory: 1512Mi
